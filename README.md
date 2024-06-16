@@ -92,6 +92,6 @@ curl -X POST http://127.0.0.1:5001/predict -H "Content-Type: application/json" -
 # Docker образ
 Содержит только модель, не содержит api\
 Чтобы скачать Docker образ, запустите
-~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 docker pull ghcr.io/ob3r/hack:latest
-~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
