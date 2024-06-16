@@ -1,0 +1,9 @@
+flask
+transformers
+safetensors
+torch
+pandas
+numpy
+datasets
+evaluate
+flask_cors
